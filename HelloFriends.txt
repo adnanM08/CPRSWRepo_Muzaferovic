@@ -1,2 +1,6 @@
 ECHO ist eingeschaltet (ON).
+<<<<<<< HEAD
 Hallo zurck von Raab! 
+=======
+Hello Back from Neumueller (:
+>>>>>>> 26ff9ef8d75bdd8b536a2efbd5bb5e60a60ef4af
